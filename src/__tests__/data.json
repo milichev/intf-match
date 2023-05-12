@@ -1,0 +1,21 @@
+{
+  "order": {
+    "_id": "123456",
+    "line_items": [
+      {
+        "product_id": "abc123",
+        "quantity": 2,
+        "discount": 0.2
+      }
+    ]
+  },
+  "products": [
+    {
+      "_id": "abc123",
+      "name": "Boots",
+      "price": 201,
+      "available_from": "2023-03-22T09:23:21.707Z",
+      "category": "footwear"
+    }
+  ]
+}
